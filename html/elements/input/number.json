@@ -14,7 +14,8 @@
                 "version_added": true
               },
               "edge": {
-                "version_added": "12"
+                "version_added": false,
+                "notes": "The input type is recognized, but there is no number-specific control."
               },
               "firefox": {
                 "version_added": true
